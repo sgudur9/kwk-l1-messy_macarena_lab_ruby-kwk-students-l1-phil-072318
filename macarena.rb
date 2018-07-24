@@ -15,7 +15,7 @@ puts "Step 2: Turn your right palm up."
 puts "Step 3: Place your right hand on your left shoulder."
 
 # Step 4: FIXME
-puts "Step 4: Turn your left palm up."
+puts "Step 4: Turn your left palm up." "Turn your right palm up."
 
 # Step 5: FIXME
 puts "Step 5: Bring your right hand up and around to the back of your head."
